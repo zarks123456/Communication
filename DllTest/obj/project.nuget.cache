@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aLWLHGhaN7XgUx63Wo+ZytrK8oLkv66eFMcF+T6jNRfZTk1POA/l0dYtAgaQuUJQcne+g6BqxKW5kn03jY6Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CJS.DESKTOP-T7TH39Q\\source\\repos\\DllTest\\DllTest\\DllTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CJS.DESKTOP-T7TH39Q\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\CJS.DESKTOP-T7TH39Q\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\CJS.DESKTOP-T7TH39Q\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

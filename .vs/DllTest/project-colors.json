@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb743f89-8ce3-486f-bc8c-81533b1a4f74": {
+      "ProjectGuid": "eb743f89-8ce3-486f-bc8c-81533b1a4f74",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 0
+    },
+    "2b3261d6-9c8f-448c-a0d1-26a40ee81eb2": {
+      "ProjectGuid": "2b3261d6-9c8f-448c-a0d1-26a40ee81eb2",
+      "DisplayName": "WinFormsApp2",
+      "ColorIndex": 1
+    },
+    "e0678e9c-51e7-42e1-9256-ab1e61eeca76": {
+      "ProjectGuid": "e0678e9c-51e7-42e1-9256-ab1e61eeca76",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 2
+    },
+    "fa8cb211-5e18-462d-bf88-48dda6d1f9d4": {
+      "ProjectGuid": "fa8cb211-5e18-462d-bf88-48dda6d1f9d4",
+      "DisplayName": "Communication",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

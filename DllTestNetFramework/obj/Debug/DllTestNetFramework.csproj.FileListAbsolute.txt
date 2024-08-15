@@ -1,0 +1,6 @@
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\bin\Debug\DllTestNetFramework.dll
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\bin\Debug\DllTestNetFramework.pdb
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\obj\Debug\DllTestNetFramework.csprojAssemblyReference.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\obj\Debug\DllTestNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\obj\Debug\DllTestNetFramework.dll
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTestNetFramework\obj\Debug\DllTestNetFramework.pdb
