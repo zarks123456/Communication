@@ -1,0 +1,8 @@
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.Form1.resources
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.AssemblyInfo.cs
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp1\obj\Debug\net472\WinFormsApp1.csproj.CoreCompileInputs.cache

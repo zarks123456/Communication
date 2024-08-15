@@ -1,0 +1,15 @@
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.Form1.resources
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.AssemblyInfo.cs
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\bin\Debug\net472\WinFormsApp2.exe.config
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\bin\Debug\net472\WinFormsApp2.exe
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\bin\Debug\net472\WinFormsApp2.pdb
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\bin\Debug\net472\Communication.dll
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.csproj.CopyComplete
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.exe
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\WinFormsApp2\obj\Debug\net472\WinFormsApp2.pdb

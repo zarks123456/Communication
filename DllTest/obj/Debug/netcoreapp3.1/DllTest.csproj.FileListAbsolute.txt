@@ -1,9 +1,10 @@
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\bin\Debug\netcoreapp3.1\DllTest.deps.json
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\bin\Debug\netcoreapp3.1\DllTest.dll
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\bin\Debug\netcoreapp3.1\DllTest.pdb
-C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.csprojAssemblyReference.cache
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.AssemblyInfoInputs.cache
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.AssemblyInfo.cs
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.csproj.CoreCompileInputs.cache
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.dll
 C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.pdb
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.csproj.AssemblyReference.cache
+C:\Users\CJS.DESKTOP-T7TH39Q\source\repos\DllTest\DllTest\obj\Debug\netcoreapp3.1\DllTest.GeneratedMSBuildEditorConfig.editorconfig
